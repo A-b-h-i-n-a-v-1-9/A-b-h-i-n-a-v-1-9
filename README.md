@@ -18,6 +18,8 @@
 <img src="https://skillicons.dev/icons?i=twitter" />
 <a href="https://www.instagram.com/abhinav_1995/">
 <img src="https://skillicons.dev/icons?i=instagram" />
+<a href="mailto:abhinavmehta374@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </p>
 <br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
