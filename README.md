@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </p>
 <br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
+<h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2><br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode&perline=5" /><br>
   <img src="https://skillicons.dev/icons?i=eclipse,arduino,git,github,windows,kali&perline=6" /><br>
