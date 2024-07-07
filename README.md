@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode&perline=5" /><br>
   <img src="https://skillicons.dev/icons?i=eclipse,arduino,git,github,windows,kali&perline=6" /><br>
 </p><br><br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡Stats⚡</h2>
 
 <p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=A-b-h-i-n-a-v-1-9&theme=radical" alt="Abhinav's Github Stats" />
   </p> 
