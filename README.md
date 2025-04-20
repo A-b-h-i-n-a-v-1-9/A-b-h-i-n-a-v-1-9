@@ -1,43 +1,67 @@
-<h1 align="center">
-  <a href="#">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Abhinav!;" />
-  </a>
-</h1>
+# [~] Hi, I’m Abhinav Mehta! 👋
 
-- 🧑‍🎓 A Second Year Undergrad, Programmer, Developer!!
-- 💻 Currently learning Node and Express JS..
-- 🚹 Pronouns: He/Him
-- 🟩 Fun fact: I come here for the green squares
- ### Blogs
- [The Power of Password Management and 2FA](https://secureyourlogins.blogspot.com/2024/05/enhancing-your-online-security-power-of.html)
-  ### You can reach me at 
-<p align="center">
-<a href="https://www.linkedin.com/in/abhinav-mehta-224968290/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="https://x.com/Abhinav04139720">
-<img src="https://skillicons.dev/icons?i=twitter" />
-<a href="https://www.instagram.com/abhinav_1995/">
-<img src="https://skillicons.dev/icons?i=instagram" />
-<a href="mailto:abhinavmehta374@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</p>
-<br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,vscode&perline=5" /><br>
-  <img src="https://skillicons.dev/icons?i=eclipse,arduino,git,github,windows,kali&perline=6" /><br>
-</p><br><br>
-<h2 align="center">⚡Stats⚡</h2>
+```
+> Identity confirmed: Cyber Security Enthusiast 🧑‍💻  
+> Status: [ONLINE] 💻  
+> Location: /var/www/India  
+> Affiliation: CyberCell VIIT | VishwaCTF Core Team
+```
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=A-b-h-i-n-a-v-1-9&theme=radical" alt="Abhinav's Github Stats" />
-  </p> 
-   <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=A-b-h-i-n-a-v-1-9&count_private=true&theme=radical"/>
-</p>
-  
+---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/A-b-h-i-n-a-v-1-9/count.svg" />
-</p>
- <div align="center">
+## ⚡ About Me
+- 🥵 CTF Player | Team Lead @ CyberCell VIIT
+- 🧠 Passionate about reverse engineering, web exploits, and binary exploitation.
+- 💡 Building **MediQuick** — A Healthcare Platform.
+- 🐍 Pythonic | 🔥 JS Fanatic | 💲 SQL Artisan.
+
+---
+
+## 🧐 Toolbox
+![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-black?logo=gnubash)
+
+---
+
+## 🔥 CTF Track Record
+| Event | Role | Rank/Impact |
+|-------|------|------------|
+| 🏆 VishwaCTF 2024 | Core Organizer | 3.1K+ Participants, 98 Countries |
+| 💻 CyberCell VIIT | Team Lead | Ranked #24 on CTFTime India |
+| 🚩 Recent Solves | `Web`, `Crypto`, `Reversing` |
+
+---
+
+## 🧠 Currently Working On
+- 💻 Building a **Collaborative Code Editor** for Devs.
+
+---
+
+## 📊 GitHub Metrics
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=abhinavmehta&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmehta&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavmehta)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abhinavmehta)
+[![CTFTime](https://img.shields.io/badge/-CTFTime-black?logo=ctftime&logoColor=white)](https://ctftime.org/team/YourTeamID)
+
+---
+
+```
+$ sudo echo "Hack The Planet!" > /etc/motd
+```
+
+---
+
+> ✨ _"Build. Break. Learn. Repeat."_
+
