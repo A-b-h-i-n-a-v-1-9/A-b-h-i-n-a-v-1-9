@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 Third Year Undergrad | Developer | CTF Enthusiast  
-- 💻 Currently exploring: `Node.js` & `Express.js`  
+- 💻 Currently exploring: `Next.js`
 - 🧠 Motto: Break. Build. Learn. Repeat.  
 - 🟩 Fun fact: I chase green GitHub squares.
 
