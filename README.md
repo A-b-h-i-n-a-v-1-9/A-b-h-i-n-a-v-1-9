@@ -42,7 +42,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhinav-mehta-224968290"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mehta-abhinav/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/Abhinav04139720"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="https://www.instagram.com/abhinav_1995/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:abhinavmehta374@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
